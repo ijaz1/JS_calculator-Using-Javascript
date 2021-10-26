@@ -25,9 +25,10 @@
     border: solid 1px rgb(207, 207, 207);
 }
 .sn{
+    text-align: right;
     background-color: black;
     color: white;
-    font-size: larger;
+    font-size: xx-large;
     width: 315px;
     height: 60px;
     border: solid 1px black;
@@ -48,10 +49,14 @@ button:hover{
     color: white;
 }
 table{
-    
+
+    margin-top: 50px;
     border: solid 1px rgb(209, 209, 209);
     border-radius: 6px;
     padding: 0px;
     background-color: rgb(255, 255, 255);
 }
 
+h1{
+    color: maroon;
+}
